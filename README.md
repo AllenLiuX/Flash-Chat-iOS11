@@ -1,5 +1,6 @@
 # Flash-Chat
 Learn to make iOS Apps 📱 | Project Stub | (Swift 2.0/Xcode 7) - Flash Chat App
+
 Used Google's Firebase to store and transfer data.
 
 ## Finished App
